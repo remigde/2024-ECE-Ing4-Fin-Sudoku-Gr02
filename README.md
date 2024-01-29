@@ -2,9 +2,9 @@ Bienvenue sur le dépôt du TP Sudoku.....
 
 ## Liens vers les vidéos:
 
-[Enregistrement 1)(https://poce-my.sharepoint.com/:v:/g/personal/jsboige_omnesintervenant_com/EWTOlftkRwBDrKeasWwhXDABYVZe5P1oujqrTZWlt9mxFQ?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view)
+[Enregistrement 1](https://poce-my.sharepoint.com/:v:/g/personal/jsboige_omnesintervenant_com/EWTOlftkRwBDrKeasWwhXDABYVZe5P1oujqrTZWlt9mxFQ?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view)
 
-[Enregistrement 2)(https://poce-my.sharepoint.com/:v:/g/personal/jsboige_omnesintervenant_com/EaMwxn53nJZJkNwFNh-k7-EBV3mT9m3y27tWwv4-56s3Ew?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view)
+[Enregistrement 2](https://poce-my.sharepoint.com/:v:/g/personal/jsboige_omnesintervenant_com/EaMwxn53nJZJkNwFNh-k7-EBV3mT9m3y27tWwv4-56s3Ew?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view)
 
 
 ## Présentation des solvers
