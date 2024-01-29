@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.PSO", "Sudoku.PSO\Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.SimulatedAnnealing", "Sudoku.SimulatedAnnealing\Sudoku.SimulatedAnnealing.csproj", "{729AB42C-6D2A-41D7-854C-0B6DD6A842F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.SimulatedProbalist", "Sudoku.SimulatedProbalist\Sudoku.SimulatedProbalist.csproj", "{FC9BC8EB-3F1F-43C3-B053-0D2D60CDBDD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,10 @@ Global
 		{729AB42C-6D2A-41D7-854C-0B6DD6A842F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{729AB42C-6D2A-41D7-854C-0B6DD6A842F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{729AB42C-6D2A-41D7-854C-0B6DD6A842F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9BC8EB-3F1F-43C3-B053-0D2D60CDBDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9BC8EB-3F1F-43C3-B053-0D2D60CDBDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9BC8EB-3F1F-43C3-B053-0D2D60CDBDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9BC8EB-3F1F-43C3-B053-0D2D60CDBDD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
